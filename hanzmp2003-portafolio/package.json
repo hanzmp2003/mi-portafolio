@@ -1,9 +1,9 @@
 {
-  "name": "chun-portafolio",
+  "name": "hanzmp2003-portafolio",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://Akaringo101.github.io/mi-portafolio",
+  "homepage": "https://hanzmp2003.github.io/mi-portafolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
