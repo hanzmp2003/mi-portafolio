@@ -6,7 +6,7 @@ export default function Proyectos() {
       desc: "Una simulación de combate sencilla en la terminal, inspirada en el famoso juego de Pokémon",
       tecnologias: ["Java"],
       imgPosition: "object-center",
-      repoLink: "https://github.com/Akaringo101/Proyectos"
+      repoLink: "https://github.com/hanzmp2003/Proyectos-portafolio"
     },
     { 
       title: "Tetris", 
@@ -14,15 +14,15 @@ export default function Proyectos() {
       desc: "Una versión clásica de Tetris creada para practicar lógica, manejo de piezas y control del juego",
       tecnologias: ["Java"],
       imgPosition: "object-bottom",
-      repoLink: "https://github.com/Akaringo101/Proyectos"
+      repoLink: "https://github.com/hanzmp2003/Proyectos-portafolio"
     },
     { 
-      title: "Lista Enlazada de Youtubers", 
+      title: "Lista Enlazada de Youtubers y laberinto", 
       img: "/mi-portafolio/Youtuber.jpeg", 
-      desc: "Administración de canales suscriptos, cuenta con las opciones para agregar, consultar y desuscribirse",
+      desc: "Administración de canales suscriptos, cuenta con las opciones para agregar, consultar y desuscribirse; así como un laberinto con solución recursiva",
       tecnologias: ["Java"],
       imgPosition: "object-[center_20%]",
-      repoLink: "https://github.com/Akaringo101/Proyectos"
+      repoLink: "https://github.com/hanzmp2003/Proyectos-portafolio"
     },
   ];
 

@@ -6,8 +6,9 @@ export default function SobreMi() {
           Sobre mí
         </h2>
         <p className="text-lg leading-8 text-[#4a4453] pr-40 mb-6">
-          Me llamo Chun, desarrolladora en formación con pasión por el diseño creativo y las interfaces bonitas. 
-          Me gusta crear experiencias suaves y amigables.
+          Soy Hanz, una persona curiosa, detallista y apasionada por crear cosas que realmente funcionen bien.
+          Me gusta diseñar experiencias claras, intuitivas y visualmente agradables, combinando creatividad con lógica para construir soluciones que se sientan naturales para el usuario.
+          Disfruto aprender, experimentar y mejorar continuamente, siempre buscando formas de hacer que la tecnología sea más eficiente y agradable.
         </p>
         
         {/* Imagen en la esquina inferior derecha */}

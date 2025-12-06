@@ -7,20 +7,16 @@ export default function Presentacion() {
         </h2>
 
         <p className="text-lg leading-8 text-[#4a4453]">
-          Estoy estudiando Ingeniería en Computación en la UCR. Este es mi
-          primer año, y a lo largo de mi estadía en la U, me he dado cuenta que
-          me interesa mucho aprender sobre el desarrollo de software, la
-          tecnología en general y la creación de los videojuegos. Siento que son
-          temas fascinantes y aprender sobre su complejidad me anima a que en
-          futuro pueda hacer lo mismo. Asimismo, me gusta programar, diseñar y
-          crear, los cuales me hace pensar que mi futuro énfasis sería software
-          :P
+          Actualmente soy estudiante de Ingeniería en Computación en la Universidad de Costa Rica. 
+          Me apasiona el análisis de datos, la resolución de problemas complejos y el desarrollo de soluciones tecnológicas eficientes. 
+          Tengo experiencia en Análisis de Datos en Tiempo Real y disfruto trabajar en entornos donde la precisión y la rapidez son esenciales. 
+          Además, me gusta mejorar, optimizar y arreglar sistemas, procesos y herramientas, buscando siempre soluciones prácticas que permitan que todo funcione mejor. 
+          Mi enfoque combina pensamiento crítico, adaptabilidad y una fuerte motivación por aprender y crear.
         </p>
 
         <p className="text-lg leading-8 text-[#4a4453] mt-4">
-          Actualmente tengo experiencia en lenguajes como Python y Java, 
-          y me encuentro en proceso de aprender más tecnologías,
-          incluyendo otros lenguajes orientados al desarrollo web.
+          Tengo experiencia en Python y Java, y actualmente continúo expandiendo mis habilidades aprendiendo nuevas tecnologías, 
+          especialmente aquellas enfocadas en el desarrollo web.
 
         </p>
       </div>

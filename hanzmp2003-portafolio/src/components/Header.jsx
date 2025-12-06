@@ -16,7 +16,7 @@ export default function Header() {
         />
 
         <h1 className="text-5xl font-bold mt-4 tracking-wide drop-shadow" style={{ color: "#405a7cff" }}>
-          Akaringo
+          Hanz Madrigal Porras
         </h1>
 
         <p className="text-lg mt-2 font-semibold" style={{ color: "#415775ff" }}>
