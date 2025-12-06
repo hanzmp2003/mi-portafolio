@@ -8,14 +8,25 @@ export default function Contacto() {
           </h2>
           <p className="text-sakura text-lg">Email: hanz.madrigal@ucr.ac.cr</p>
           <p className="text-sakura text-lg mt-1">
-            GitHub: 
-            <a 
-              href="https://github.com/hanzmp2003" 
-              target="_blank" 
+            GitHub:
+            <a
+              href="https://github.com/hanzmp2003"
+              target="_blank"
               rel="noopener noreferrer"
               className="underline hover:text-sakuraDark transition ml-1"
             >
               github.com/hanzmp2003
+            </a>
+          </p>
+          <p className="text-sakura text-lg mt-1">
+            LinkedIn:
+            <a
+              href="https://www.linkedin.com/in/hanz-madrigal-porras-80a13222a"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-sakuraDark transition ml-1"
+            >
+              linkedin.com/in/hanz-madrigal-porras-80a13222a
             </a>
           </p>
         </div>
@@ -24,9 +35,9 @@ export default function Contacto() {
           <h2 className="text-4xl text-sakuraDark font-semibold mb-3 drop-shadow">
             Repositorio del Portafolio
           </h2>
-          <a 
-            href="https://github.com/hanzmp2003/mi-portafolio" 
-            target="_blank" 
+          <a
+            href="https://github.com/hanzmp2003/mi-portafolio"
+            target="_blank"
             rel="noopener noreferrer"
             className="text-sakura underline hover:text-sakuraDark transition"
           >

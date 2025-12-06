@@ -7,16 +7,12 @@ export default function Aprendizajes() {
 
       <div className="p-6 bg-bubble rounded-2xl shadow-kawaii">
         <p className="text-lg leading-8 text-[#4a4453] mb-6">
-          Desarrollar la página fue un verdadero desafío, porque había herramientas que no conocía y al principio me costó 
-          entenderlas. Sin embargo, al aplicarlas y experimentar un poco, pude comprender mejor cómo funcionaban y 
-          cuál era la estructura general necesaria para crear un sitio web.
+          Este proyecto se me hizo algo complicado. Aprender a usar Vite, configurar correctamente el repositorio 
+          y publicar en GitHub Pages me llevó un tiempo y varios intentos. 
+          También tuve que tener cuidado con la carpeta <code>node_modules</code>, que podía causar problemas si se subía.
           <br /><br />
-          Además, este proyecto utilizó herramientas adicionales del framework, por lo que publicarlo y editarlo también fue retador 
-          porque había que hacer pasos adicionales en los archivos de Vite y package.json para para que coincidieran con la ruta del repositorio y así GitHub Pages pudiera funcionar correctamente.
-          Por otro lado, había que prestar atención a la carpeta de 'node_modules' porque al subirlo, causaba fallos en el repositorio y aumentaba innecesariamente el peso del proyecto.
-          <br /><br />
-          A pesar de todo los enredos, realmente disfruté trabajar en este proyecto; incluso cuando parecía un desastre al inicio, 
-          me gustó mucho el resultado final y me motivó seguir aprendiendo sobre el desarrollo web.
+          A pesar de los tropiezos iniciales, trabajar en este portafolio me ayudó a entender mejor cómo organizar y publicar un proyecto web, 
+          y me dejó motivado para seguir aprendiendo.
         </p>
 
         <div className="flex justify-center">
