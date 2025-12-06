@@ -2,7 +2,7 @@ export default function Proyectos() {
   const proyectos = [
     { 
       title: "Proyecto Pokémon", 
-      img: "/mi-portafolio/pokemon.jpeg", 
+      img: "/mi-portafolio/pokemonB.jpeg", 
       desc: "Una simulación de combate sencilla en la terminal, inspirada en el famoso juego de Pokémon",
       tecnologias: ["Java"],
       imgPosition: "object-center",
@@ -10,15 +10,15 @@ export default function Proyectos() {
     },
     { 
       title: "Tetris", 
-      img: "/mi-portafolio/Tetris.jpg", 
+      img: "/mi-portafolio/TetrisB.jpg", 
       desc: "Una versión clásica de Tetris creada para practicar lógica, manejo de piezas y control del juego",
       tecnologias: ["Java"],
       imgPosition: "object-bottom",
       repoLink: "https://github.com/hanzmp2003/Proyectos-portafolio"
     },
     { 
-      title: "Lista Enlazada de Youtubers y laberinto", 
-      img: "/mi-portafolio/Youtuber.jpeg", 
+      title: "Lista Enlazada de Youtubers y Laberinto", 
+      img: "/mi-portafolio/YoutubeB.jpeg", 
       desc: "Administración de canales suscriptos, cuenta con las opciones para agregar, consultar y desuscribirse; así como un laberinto con solución recursiva",
       tecnologias: ["Java"],
       imgPosition: "object-[center_20%]",

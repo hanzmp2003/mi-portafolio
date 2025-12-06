@@ -13,8 +13,8 @@ export default function SobreMi() {
         
         {/* Imagen en la esquina inferior derecha */}
         <img
-          src="/mi-portafolio/ardilla.png"
-          alt="Ardilla"
+          src="/mi-portafolio/Barca.png"
+          alt="Barca"
           className="absolute bottom-4 right-4 w-36 opacity-90" //w - # es el tamaño de la imagen
         />
       </div>

@@ -17,7 +17,7 @@ export default function Aprendizajes() {
 
         <div className="flex justify-center">
           <img 
-            src="/mi-portafolio/Gato.png" 
+            src="/mi-portafolio/Goku.png" 
             alt="Aprendizaje del proyecto" 
             className="absolute bottom-4 right-4 w-36 opacity-90"
           />
